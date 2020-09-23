@@ -38,7 +38,7 @@ python face_label_v3.py
 
 标注结果保存在选取的文件夹中：
 
- ![](./imgs/2.png)
+ ![](./imgs/3.png)
 
 
 
