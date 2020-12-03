@@ -1,7 +1,6 @@
 """
 Author:humingyue
 Time:20201201
-Company:EB
 File:face_label.py
 Software:Pycharm
 """
