@@ -1,5 +1,5 @@
 # face-occlusion-label-tools
-简易的人脸五官有无遮挡标注小工具，simple  face occlusion label tools
+tkinter实现简易的人脸五官有无遮挡标注小工具，simple  face occlusion label tools
 
  ![](https://img.shields.io/badge/Humy-AI-brightgreen)
 
@@ -29,7 +29,7 @@
 ### 程序运行
 
 ```shell
-python face_label_v3.py
+python face_label.py
 ```
 
 该程序可以选择文件夹，然后标注文件夹内的图片，生成一个图片跟标签对应的txt文件，运行过程如下图所示：
